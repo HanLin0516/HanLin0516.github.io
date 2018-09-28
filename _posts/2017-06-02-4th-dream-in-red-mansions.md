@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "红楼·第四梦：下线的脂砚斋"
+date: 2017-06-02 14:42
+description: "要说这个世界上有两个人必定是读过全本红楼的，一个是原作者本人，另一个就是第一读者脂砚斋同学了。"
+main-class: 
+color: '#7D669E'
+introduction: "在「芹泪尽而逝」之后，脂砚斋重新翻开《石头记》，对前几回详细批注，一一解开曹雪芹埋下的伏线谜底，泪珠抛洒在纸面之上，洇透了纸背。。"
+
+---
+
 ![img](https://mmbiz.qlogo.cn/mmbiz_jpg/HxzgP1ZDlyARL3I54wB5gsTF1ohml9aqc7b13RpUh8OkuYaByOQZOkGouTicV7j9kfmyUN7L1vibKQhI2GHx0icVg/0?wx_fmt=jpeg)
 
 ## 下线的脂砚斋

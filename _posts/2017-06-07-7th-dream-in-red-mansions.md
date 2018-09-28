@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "红楼·第七梦：意|气|笔|力"
+date: 2017-06-07 14:42
+description: "气韵生动，以画入笔"
+main-class: 
+color: '#7D669E'
+introduction: "气韵生动，以画入笔"
+
+---
+
+
+
 # 红楼 · 第七梦
 
  
