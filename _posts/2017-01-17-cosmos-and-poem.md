@@ -47,8 +47,8 @@ introduction: "勇敢不是一往无前，而是知道明明很痛苦，却依�
 
 写了
 
-* [凋寒：镜溪 | 作家部落](http://mp.weixin.qq.com/s/4wEj_0itMV3peCYqIEfZrg)
-* [凋寒：《镜溪》的创作及兼论科幻 | 作家部落](http://mp.weixin.qq.com/s/Clo2ijvA3kf5zEj9jX0x4w)
+* [凋寒：镜溪](http://mp.weixin.qq.com/s/4wEj_0itMV3peCYqIEfZrg)
+* [凋寒：《镜溪》的创作及兼论科幻](http://mp.weixin.qq.com/s/Clo2ijvA3kf5zEj9jX0x4w)
 * [数字焦虑 - 简书](http://www.jianshu.com/p/193dc7b2724b)
 * [再创世纪 - 简书](http://www.jianshu.com/p/ae2d2c11ee16)
 
