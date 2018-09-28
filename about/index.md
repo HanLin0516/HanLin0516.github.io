@@ -34,6 +34,6 @@ layout: page
 
 * <i class="fa fa-envelope"></i>lingerlin@live.cn
 * <i class="fa fa-github"></i><a href="http://www.github.com/hanlin0516/" target="_blank" title="BleuHu的github">我的GitHub</a>
-* <i class="fa fa-pencil"></i><a href="hanlin0516.github.io" target="_blank" title="我的个人博客"> 不成文（hanlin0516.github.io）</a>
+* <i class="fa fa-pencil"></i><a href="http://hanlin0516.github.io" target="_blank" title="我的个人博客"> 不成文（hanlin0516.github.io）</a>
 
 
