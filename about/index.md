@@ -3,30 +3,37 @@ title: about me
 layout: page
 ---
 
-Hi
-
-I'm glad that you finally discovered my site!
-
-
- <h3>为什么写个人博客</h3>
-  
-  A place share my thoughts <a href="https://sivers.org/sharing">分享即是意义</a>
-  
-  If your time to you is worth savin’ Then you better start swimming Or you’ll sink like a stone For the times they are a changin.
-
-如果年华值得珍重，最好此刻开始游动，不然你将如石头沉至水底，因为这是变革的时代。  -   Bob Dylan
 
 
 
-<h3>我是谁</h3>
+ <h3>乱翻书</h3>
 
-张悬，姆爷，昆德拉。
-听，玩，书，写。
+* 追兮其犹未远，何惶惑而多嗟。
+
+* But man is not made for defeat. A man can be destroyed but not defeated.
+
+  没有一个人生来被打败。一个人可以被毁灭，但是不能被打败。
+
+* 醉与放浪形骸，醒与悲歌唱彻。善啸的终喑哑，中宵里默默遣怀。
+
+* 雨夜渐渐销沉了下去，不知道多少人的声梦将涸。
+
+* 惊蛰后三日，大风卷霰雨纷飞，沾发犹似露痕湿。兴之起意，往游辰山。梅花渐去，樱花正盛。
+
+* ——黄泉不过是另一条下水道。
+
+* 语来江色暮，独自下寒烟。 
+
+* 乘兴而行，兴尽而返！
+
+<h3>乱七八糟</h3>
+
+不专业作者。不专业填词。不专业翻译。不专业教练。
 
 <h3>勾搭我</h3>
 
-* <i class="fa fa-envelope"></i>huyuning931106@gmail.com
-* <i class="fa fa-github"></i><a href="http://www.github.com/BleuHu/" target="_blank" title="BleuHu的github">我的GitHub</a>
-* <i class="fa fa-pencil"></i><a href="http://www.huyuning.com" target="_blank" title="我的个人博客"> 树长在云里（www.huyuning.com）</a>
+* <i class="fa fa-envelope"></i>lingerlin@live.cn
+* <i class="fa fa-github"></i><a href="http://www.github.com/hanlin0516/" target="_blank" title="BleuHu的github">我的GitHub</a>
+* <i class="fa fa-pencil"></i><a href="hanlin0516.github.io" target="_blank" title="我的个人博客"> 不成文（hanlin0516.github.io）</a>
 
 
